@@ -1,26 +1,27 @@
-# Hey 👋, I'm Rohit
+# Hey 👋, I'm Rohit  
 
-<table>
-<tr>
-<td width="200px">
-  <img src="https://www.rohitchoukiker.me/circle_profile.png" alt="Rohit Choukiker" width="180" style="border-radius:50%;" />
-</td>
-<td>
-  
-🚀 **Software Developer | AI/ML & Full-Stack**  
-💡 Driven to build scalable solutions leveraging **Cloud & AI**  
-📫 Reach me: [Portfolio](https://www.rohitchoukiker.me/) | [LinkedIn](https://www.linkedin.com/in/rohit-choukiker) | [Email](mailto:airohit@protonmail.com)  
+<p align="center">
+  <img src="https://www.rohitchoukiker.me/circle_profile.png" alt="Rohit Choukiker" width="160" style="border-radius:50%; box-shadow: 0px 0px 15px rgba(0,0,0,0.3);" />
+</p>
 
-</td>
-</tr>
-</table>
+<h3 align="center">
+🚀 <b>Software Developer | AI/ML & Full-Stack</b>  
+</h3>
+
+<p align="center">
+💡 Driven to build scalable solutions leveraging <b>Cloud & AI</b> <br/>
+📫 Reach me: 
+<a href="https://www.rohitchoukiker.me/">Portfolio</a> • 
+<a href="https://www.linkedin.com/in/rohit-choukiker">LinkedIn</a> • 
+<a href="mailto:airohit@protonmail.com">Email</a>
+</p>
 
 ---
 
 ## 🛠️ Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,express,firebase,mongodb,mysql,docker,git,gcp" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,firebase,mongodb,mysql,docker,git,gcp,aws" />
 </p>  
 
 - **Languages:** C++, Python, JavaScript, TypeScript  
@@ -60,17 +61,4 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitChoukiker&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitChoukiker&theme=tokyonight" height="160" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitChoukiker&layout=compact&theme=tokyonight" height="160"/>
-</p>  
-
----
-
-⭐️ From [Rohit Choukiker](https://github.com/RohitChoukiker)  
+<p align="center">⭐️ From <a href="https://github.com/RohitChoukiker">Rohit Choukiker</a></p>
