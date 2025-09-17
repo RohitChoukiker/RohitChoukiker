@@ -1,10 +1,19 @@
 # Hey 👋, I'm Rohit
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
-
+<table>
+<tr>
+<td width="200px">
+  <img src="https://www.rohitchoukiker.me/circle_profile.png" alt="Rohit Choukiker" width="180" style="border-radius:50%;" />
+</td>
+<td>
+  
 🚀 **Software Developer | AI/ML & Full-Stack**  
 💡 Driven to build scalable solutions leveraging **Cloud & AI**  
 📫 Reach me: [Portfolio](https://www.rohitchoukiker.me/) | [LinkedIn](https://www.linkedin.com/in/rohit-choukiker) | [Email](mailto:airohit@protonmail.com)  
+
+</td>
+</tr>
+</table>
 
 ---
 
