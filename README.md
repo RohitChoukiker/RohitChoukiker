@@ -61,10 +61,4 @@
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitChoukiker&layout=compact&theme=tokyonight" height="170"/>
-</p>  
-
----
-
-<p align="center">⭐️ From <a href="https://github.com/RohitChoukiker">Rohit Choukiker</a></p>
+<p align="left">⭐️ From <a href="https://github.com/RohitChoukiker">Rohit Choukiker</a></p>
