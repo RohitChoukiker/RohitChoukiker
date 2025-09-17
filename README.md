@@ -1,27 +1,33 @@
-# Hey 👋, I'm Rohit  
+<!-- top of README: left text + right profile image -->
+# Hey 👋, I'm Rohit
 
-<p align="center">
-  <img src="https://www.rohitchoukiker.me/circle_profile.png" alt="Rohit Choukiker" width="160" style="border-radius:50%; box-shadow: 0px 0px 15px rgba(0,0,0,0.3);" />
-</p>
+<table width="100%">
+  <tr>
+    <!-- LEFT: Intro text -->
+    <td valign="middle" width="65%">
+      <h2 style="margin:0">🚀 <strong>Software Developer | AI/ML & Full-Stack</strong></h2>
+      <p style="margin:8px 0 0 0; font-size:16px;">
+        💡 <strong>Driven to build scalable solutions leveraging Cloud & AI</strong><br/>
+        📫 Reach me: 
+        <a href="https://www.rohitchoukiker.me/">Portfolio</a> • 
+        <a href="https://www.linkedin.com/in/rohit-choukiker">LinkedIn</a> • 
+        <a href="mailto:airohit@protonmail.com">Email</a>
+      </p>
+    </td>
 
-<h3 align="center">
-🚀 <b>Software Developer | AI/ML & Full-Stack</b>  
-</h3>
-
-<p align="center">
-💡 Driven to build scalable solutions leveraging <b>Cloud & AI</b> <br/>
-📫 Reach me: 
-<a href="https://www.rohitchoukiker.me/">Portfolio</a> • 
-<a href="https://www.linkedin.com/in/rohit-choukiker">LinkedIn</a> • 
-<a href="mailto:airohit@protonmail.com">Email</a>
-</p>
+    <!-- RIGHT: Profile image -->
+    <td valign="middle" align="right" width="35%">
+      <img src="https://www.rohitchoukiker.me/circle_profile.png" alt="Rohit Choukiker" width="160" style="border-radius:50%; border:4px solid rgba(255,255,255,0.04); box-shadow: 0 8px 24px rgba(2,6,23,0.6);" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,firebase,mongodb,mysql,docker,git,gcp,aws" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,firebase,mongodb,mysql,docker,git,gcp,aws" alt="skills" />
 </p>  
 
 - **Languages:** C++, Python, JavaScript, TypeScript  
