@@ -2,7 +2,7 @@
 
 🚀 **Software Developer | AI/ML & Full-Stack**  
 💡 Passionate about building scalable solutions with **Cloud & Generative AI**  
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/rohit-choukiker) | [Email](airohit@protonmail.com) | [GitHub](https://github.com/RohitChoukiker)
+📫 Reach me: [Portfolio](https://www.rohitchoukiker.me/) | [LinkedIn](https://www.linkedin.com/in/rohit-choukiker) | [Email](mailto:airohit@protonmail.com) | [GitHub](https://github.com/RohitChoukiker)
 
 ---
 
@@ -32,6 +32,7 @@
 
 - **Smart India Hackathon 2024 – Finalist** 🏅  
   Developed an AI system to optimize postal delivery using multi-modal transport.  
+
 ---
 
 ## 🌟 Leadership & Volunteering
