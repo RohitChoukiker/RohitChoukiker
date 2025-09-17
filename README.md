@@ -9,11 +9,12 @@
 ## 🛠️ Skills
 
 - **Languages:** C++, Python, JavaScript, TypeScript  
-- **Frameworks & Libraries:** Node.js, Express.js, React.js, Next.js (TypeScript), Socket.io  
+- **Frameworks & Libraries:** FastAPI, Node.js, Express.js, React.js, Next.js (TypeScript), Socket.io  
 - **AI/ML:** LangChain, Hugging Face Transformers, NumPy, Pandas  
 - **Databases:** MongoDB, MySQL, Firebase, Chroma (Vector DB), Neon (PostgreSQL)  
 - **DevOps & Deployment:** Docker, Git, Vercel, Render, AWS (Basic), Postman  
 - **Cloud Platforms:** Firebase, Google Cloud Platform (GCP), Render, Vercel  
+
  
 
 ---
