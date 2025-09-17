@@ -37,8 +37,11 @@
 
 ## 🌟 Leadership & Volunteering
 
-- **Web Development Lead** — DevxDSA Club, IIST (2024 – Present)  
-  - Led 30+ students in web development workshops & projects.  
+- **Web Development Lead** — DevxDSA Club, IIST (Oct 2024 – Present)  
+  - Led **30+ students** in web development workshops & projects.  
+  - Conducted hands-on sessions on **React, Next.js, and Node.js**, mentoring juniors in real-world applications.  
+  - Coordinated with faculty and peers to organize **hackathons and tech meetups**.  
+  - Guided multiple student teams to successfully deliver **full-stack projects** deployed on cloud platforms.  
 
 ---
 
