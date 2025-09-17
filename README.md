@@ -32,9 +32,6 @@
 
 - **Smart India Hackathon 2024 – Finalist** 🏅  
   Developed an AI system to optimize postal delivery using multi-modal transport.  
-- **LeetCode:** 210+ problems solved | Contest Rating: **1557**  
-  [Profile](https://leetcode.com/u/rohitchoukiker2803/) 
-
 ---
 
 ## 🌟 Leadership & Volunteering
