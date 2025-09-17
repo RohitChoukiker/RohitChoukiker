@@ -28,24 +28,6 @@
 
 ---
 
-## 📌 Projects
-
-🔹 **[Tap2Share – Smart ID-based School Safety System](https://www.tap2share.co/)**  
-- NFC-enabled smart ID cards for real-time student check-in/out & emergency alerts.  
-- Built dashboards for admins & parents using **React.js + Firebase**.  
-
-🔹 **[MedQuery Agent – AI RAG Assistant for Medical Queries](https://github.com/RohitChoukiker/medQuery.git)**  
-- RAG-based assistant with **semantic retrieval + citation-backed answers**.  
-- Features: PDF upload, chat Q&A, voice-to-text, bookmarks, analytics.  
-- Stack: **FastAPI, LangChain, Chroma**.  
-
-🔹 **[Real Estate Transaction Automation](https://github.com/RohitChoukiker/mainReal.git)**  
-- Role-based web app for agents, brokers, coordinators.  
-- Features: property listing approvals, document workflows, status tracking.  
-- Stack: **Next.js (TS), Node.js, MongoDB**.  
-
----
-
 ## 🏆 Achievements
 
 - **Smart India Hackathon 2024 – Finalist** 🏅  
