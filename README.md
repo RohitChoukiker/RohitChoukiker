@@ -1,19 +1,23 @@
+<!-- top of README: left text + right profile image -->
 # Hey 👋, I'm Rohit
 
 <table width="100%">
   <tr>
     <!-- LEFT: Intro text -->
     <td valign="middle" width="65%">
-      
-🚀 **Software Developer | AI/ML & Full-Stack**  
-💡 Driven to build scalable solutions leveraging **Cloud & AI**  
-📫 Reach me: [Portfolio](https://www.rohitchoukiker.me/) • [LinkedIn](https://www.linkedin.com/in/rohit-choukiker) • [Email](mailto:airohit@protonmail.com)  
-
+      <h2 style="margin:0">🚀 <strong>Software Developer | AI/ML & Full-Stack</strong></h2>
+      <p style="margin:8px 0 0 0; font-size:16px;">
+        💡 <strong>Driven to build scalable solutions leveraging Cloud & AI</strong><br/>
+        📫 Reach me: 
+        <a href="https://www.rohitchoukiker.me/">Portfolio</a> • 
+        <a href="https://www.linkedin.com/in/rohit-choukiker">LinkedIn</a> • 
+        <a href="mailto:airohit@protonmail.com">Email</a>
+      </p>
     </td>
 
     <!-- RIGHT: Profile image -->
     <td valign="middle" align="right" width="35%">
-      <img src="https://www.rohitchoukiker.me/circle_profile.png" alt="Rohit Choukiker" width="160" style="border-radius:50%;" />
+      <img src="https://www.rohitchoukiker.me/circle_profile.png" alt="Rohit Choukiker" width="160" style="border-radius:50%; border:4px solid rgba(255,255,255,0.04); box-shadow: 0 8px 24px rgba(2,6,23,0.6);" />
     </td>
   </tr>
 </table>
@@ -59,8 +63,8 @@
   - Led **30+ students** in web development workshops & projects.  
   - Conducted hands-on sessions on **React, Next.js, and Node.js**, mentoring juniors in real-world applications.  
   - Coordinated with faculty and peers to organize **hackathons and tech meetups**.  
-  - Guided multiple student teams to successfully deliver **full-stack projects** deployed on cloud platforms.  
-
+  - Guided multiple student teams to successfully deliver **full-stack projects** deployed on cloud platforms.
+    
 ---
 
 <p align="center">⭐️ From <a href="https://github.com/RohitChoukiker">Rohit Choukiker</a></p>
