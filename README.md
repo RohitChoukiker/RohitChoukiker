@@ -61,14 +61,7 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitChoukiker&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitChoukiker&theme=tokyonight" height="170" />
-</p>  
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitChoukiker&layout=compact&theme=tokyonight" height="170"/>
 </p>  
 
