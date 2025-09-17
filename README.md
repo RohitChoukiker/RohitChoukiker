@@ -2,8 +2,7 @@
 
 🚀 **Software Developer | AI/ML & Full-Stack**  
 💡 Passionate about building scalable solutions with **Cloud & Generative AI**  
-🌱 Currently exploring: **LLMs, LangChain, Next.js**  
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/rohit-choukiker) | [Email](mailto:rohitchoukiker2803@gmail.com) | [GitHub](https://github.com/RohitChoukiker)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/rohit-choukiker) | [Email](airohit@protonmail.com) | [GitHub](https://github.com/RohitChoukiker)
 
 ---
 
