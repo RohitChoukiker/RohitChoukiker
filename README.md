@@ -1,7 +1,7 @@
 # Hey 👋, I'm Rohit
 
 🚀 **Software Developer | AI/ML & Full-Stack**  
-💡 Passionate about building scalable solutions with **Cloud & Generative AI**  
+💡 Driven to build scalable solutions leveraging **Cloud & AI**  
 📫 Reach me: [Portfolio](https://www.rohitchoukiker.me/) | [LinkedIn](https://www.linkedin.com/in/rohit-choukiker) | [Email](mailto:airohit@protonmail.com)
 
 ---
