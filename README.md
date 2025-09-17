@@ -1,10 +1,10 @@
 # Hey 👋, I'm Rohit  
 
-<p align="center">
+<p align="right">
   <img src="https://www.rohitchoukiker.me/circle_profile.png" alt="Rohit Choukiker" width="160" style="border-radius:50%; box-shadow: 0px 0px 15px rgba(0,0,0,0.3);" />
 </p>
 
-<h3 align="center">
+<h3 align="left">
 🚀 <b>Software Developer | AI/ML & Full-Stack</b>  
 </h3>
 
