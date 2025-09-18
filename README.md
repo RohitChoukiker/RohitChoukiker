@@ -21,7 +21,7 @@
 ## 🛠️ Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,nodejs,express,firebase,mongodb,mysql,docker,git,gcp" />
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nodejs,express,firebase,mysql,docker,git,gcp" />
 </p>  
 
 - **Languages:** C++, Python, JavaScript, TypeScript  
