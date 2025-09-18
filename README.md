@@ -47,7 +47,7 @@
 ## 🏆 Achievements  
 
 - **Smart India Hackathon 2024 – Finalist** 🏅  
-  Developed an AI system to optimize postal delivery using multi-modal transport.  
+  Developed an AI-driven logistics optimization system leveraging machine learning algorithms and multi-modal transport (road, rail, air) to minimize delivery time and cost for India Post, integrating intelligent route planning, real-time tracking, and demand forecasting.  
 
 ---
 
