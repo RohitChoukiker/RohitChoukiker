@@ -18,6 +18,10 @@
 
 ---
 
+> 🔒 *Prefer to stay semi-anonymous online; reach me directly via email or LinkedIn for collaboration opportunities.*
+
+---
+
 ## 🛠️ Skills  
 
 <p align="center">
