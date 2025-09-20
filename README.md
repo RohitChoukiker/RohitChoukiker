@@ -19,7 +19,7 @@
 ---
 🔒 *I prefer to stay semi-anonymous online. For collaborations, please reach me via [LinkedIn](https://www.linkedin.com/in/rohit-choukiker) or [Email](mailto:airohit@protonmail.com).*
 
-## > 🔒 *Prefer to stay semi-anonymous online; reach me directly via email or LinkedIn for collaboration opportunities.*
+## > 🔒 *Prefer to stay semi-anonymous online; reach me directly via [Email](mailto:airohit@protonmail.com) or [LinkedIn](https://www.linkedin.com/in/rohit-choukiker) for collaboration opportunities.*
 
 ---
 
