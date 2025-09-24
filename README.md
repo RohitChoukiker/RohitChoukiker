@@ -29,7 +29,7 @@
 </p>   -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,next,nodejs,express,fastapi,socketio,numpy,pandas,mongodb,mysql,firebase,postgres,docker,git,vercel,aws,postman,gcp" />
+  <img src="https://skillicons.dev/icons?i=pythonts,react,next,nodejs,fastapi,mongodb,mysql,firebase,postgres,docker,postman,gcp" />
   <br/>
   <img src="https://img.shields.io/badge/LangChain-black?logo=chainlink&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/🤗-HuggingFace-yellow" height="40"/>
