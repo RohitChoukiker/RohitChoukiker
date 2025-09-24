@@ -22,14 +22,6 @@
 
 ---
 
-
-## 📊 GitHub Contributions  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitChoukiker&theme=tokyo-night" alt="Contribution Graph"/>
-</p>
-
-
 ## 🛠️ Skills  
 
 <p align="center">
@@ -87,5 +79,12 @@
   - Guided multiple student teams to successfully deliver **full-stack projects** deployed on cloud platforms.  
 
 ---
+
+## 📊 GitHub Contributions  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitChoukiker&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
+
 
 <p align="left">⭐️ From <a href="https://github.com/RohitChoukiker">Rohit Choukiker</a></p>
