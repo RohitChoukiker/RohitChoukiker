@@ -62,7 +62,8 @@
 ## 🌟 Leadership & Volunteering  
 
 - **Technical Coordinator** — Apratim Srijan Kumbh Internal Hackathon 2025 🎯  
-  Recognized for exemplary leadership and invaluable contribution as the Technical Coordinator of the **Apratim Srijan Kumbh Internal Hackathon 2025** at Indore Institute of Science and Technology.  
+
+   Recognized for exemplary leadership and invaluable contribution as the Technical Coordinator of the **Apratim Srijan Kumbh Internal Hackathon 2025** at Indore Institute of Science and Technology.  
   Played a key role in **planning, coordination, and execution** of the event, ensuring smooth operations and grand success.  
 
 - **Web Development Lead** — DevxDSA Club, IIST (Oct 2024 – Present)  
