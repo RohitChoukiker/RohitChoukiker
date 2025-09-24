@@ -24,12 +24,8 @@
 
 ## 🛠️ Skills  
 
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,nodejs,express,firebase,mysql,docker,git,gcp" />
-</p>   -->
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pythonts,react,next,nodejs,fastapi,mongodb,mysql,firebase,postgres,docker,postman,gcp" />
+  <img src="https://skillicons.dev/icons?i=pythonts,react,next,nodejs,express,fastapi,mongodb,mysql,firebase,postgres,docker,postman,gcp" />
   <br/>
   <img src="https://img.shields.io/badge/LangChain-black?logo=chainlink&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/🤗-HuggingFace-yellow" height="40"/>
