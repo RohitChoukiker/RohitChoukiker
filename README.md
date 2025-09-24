@@ -47,7 +47,6 @@
 - Collaborated in a **remote international team** for smooth end-to-end delivery.  
 
 ---
-
 ## 🏆 Achievements  
 
 - **Smart India Hackathon 2024 – Finalist** 🏅  
@@ -58,7 +57,7 @@
 - **ISRO Bharatiya Antariksh Hackathon 2025 – Participant** 🚀  
   Successfully participated in the prestigious national-level initiative by ISRO to foster innovation in space exploration and technology.  
   Contributed by addressing real-world challenges in the space domain, demonstrating creativity, teamwork, and problem-solving skills.  
-  <img src="https://alumniapi.mic.gov.in/api/certificatess/14878/62725" width="400px" alt="ISRO Hackathon Certificate"/>
+ 🔗 [View Certificate](https://certificate.hack2skill.com/user/isrobah25/2025H2S06BAH25-P27640)
 ---
 
 ## 🌟 Leadership & Volunteering  
