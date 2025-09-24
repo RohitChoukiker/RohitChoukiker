@@ -52,7 +52,7 @@
 
 - **Smart India Hackathon 2024 – Finalist** 🏅  
   Developed an AI-driven logistics optimization system leveraging machine learning algorithms and multi-modal transport (road, rail, air) to minimize delivery   time and cost for India Post, integrating intelligent route planning, real-time tracking, and demand forecasting.
-  <a src="https://alumniapi.mic.gov.in/api/certificatess/14878/62725" width="400px" alt="SIH Certificate"/>
+🔗 View Certificate](https://alumniapi.mic.gov.in/api/certificatess/14878/62725)
 
 
 - **ISRO Bharatiya Antariksh Hackathon 2025 – Participant** 🚀  
