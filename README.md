@@ -24,13 +24,20 @@
 
 ## 🛠️ Skills  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,react,nodejs,express,firebase,mysql,docker,git,gcp" />
-</p>  
+</p>   -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,next,nodejs,express,fastapi,socketio,langchain,huggingface,numpy,pandas,mongodb,mysql,firebase,postgres,docker,git,vercel,render,aws,postman,gcp" />
-</p>  
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,next,nodejs,express,fastapi,socketio,numpy,pandas,mongodb,mysql,firebase,postgres,docker,git,vercel,aws,postman,gcp" />
+  <br/>
+  <img src="https://img.shields.io/badge/LangChain-black?logo=chainlink&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/🤗-HuggingFace-yellow" height="40"/>
+  <img src="https://img.shields.io/badge/Chroma-VectorDB-green" height="40"/>
+  <img src="https://img.shields.io/badge/Neon-Postgres-blue" height="40"/>
+  <img src="https://img.shields.io/badge/Render-%2300C7B7.svg?logo=render&logoColor=white" height="40"/>
+</p>
+
 
 - **Languages:** C++, Python, JavaScript, TypeScript  
 - **Frameworks & Libraries:** FastAPI, Node.js, Express.js, React.js, Next.js (TypeScript), Socket.io  
