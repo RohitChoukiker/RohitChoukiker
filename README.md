@@ -32,46 +32,12 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,next,nodejs,express,fastapi,socketio,langchain,huggingface,numpy,pandas,mongodb,mysql,firebase,postgres,docker,git,vercel,render,aws,postman,gcp" />
 </p>  
 
-- **Languages:**  
-  ![C++](https://skillicons.dev/icons?i=cpp) 
-  ![Python](https://skillicons.dev/icons?i=python) 
-  ![JavaScript](https://skillicons.dev/icons?i=js) 
-  ![TypeScript](https://skillicons.dev/icons?i=ts)  
-
-- **Frameworks & Libraries:**  
-  ![FastAPI](https://skillicons.dev/icons?i=fastapi) 
-  ![Node.js](https://skillicons.dev/icons?i=nodejs) 
-  ![Express.js](https://skillicons.dev/icons?i=express) 
-  ![React.js](https://skillicons.dev/icons?i=react) 
-  ![Next.js](https://skillicons.dev/icons?i=nextjs) 
-  ![Socket.io](https://skillicons.dev/icons?i=socketio)  
-
-- **AI/ML:**  
-  ![LangChain](https://img.shields.io/badge/LangChain-black?logo=chainlink&logoColor=white)  
-  ![Hugging Face](https://img.shields.io/badge/🤗-HuggingFace-yellow)  
-  ![NumPy](https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white)  
-  ![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)  
-
-- **Databases:**  
-  ![MongoDB](https://skillicons.dev/icons?i=mongodb) 
-  ![MySQL](https://skillicons.dev/icons?i=mysql) 
-  ![Firebase](https://skillicons.dev/icons?i=firebase) 
-  ![ChromaDB](https://img.shields.io/badge/Chroma-VectorDB-green)  
-  ![NeonDB](https://img.shields.io/badge/Neon-Postgres-blue)  
-
-- **DevOps & Deployment:**  
-  ![Docker](https://skillicons.dev/icons?i=docker) 
-  ![Git](https://skillicons.dev/icons?i=git) 
-  ![Vercel](https://skillicons.dev/icons?i=vercel) 
-  ![Render](https://img.shields.io/badge/Render-%2300C7B7.svg?logo=render&logoColor=white)  
-  ![AWS](https://skillicons.dev/icons?i=aws) 
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
-
-- **Cloud Platforms:**  
-  ![Firebase](https://skillicons.dev/icons?i=firebase) 
-  ![Google Cloud](https://skillicons.dev/icons?i=gcp) 
-  ![Render](https://img.shields.io/badge/Render-%2300C7B7.svg?logo=render&logoColor=white)  
-  ![Vercel](https://skillicons.dev/icons?i=vercel)  
+- **Languages:** C++, Python, JavaScript, TypeScript  
+- **Frameworks & Libraries:** FastAPI, Node.js, Express.js, React.js, Next.js (TypeScript), Socket.io  
+- **AI/ML:** LangChain, Hugging Face Transformers, NumPy, Pandas  
+- **Databases:** MongoDB, MySQL, Firebase, Chroma (Vector DB), Neon (PostgreSQL)  
+- **DevOps & Deployment:** Docker, Git, Vercel, Render, AWS (Basic), Postman  
+- **Cloud Platforms:** Firebase, Google Cloud Platform (GCP), Render, Vercel  
 
 ---
 
