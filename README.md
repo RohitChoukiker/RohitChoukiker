@@ -53,6 +53,10 @@
 - **Smart India Hackathon 2024 – Finalist** 🏅  
   Developed an AI-driven logistics optimization system leveraging machine learning algorithms and multi-modal transport (road, rail, air) to minimize delivery time and cost for India Post, integrating intelligent route planning, real-time tracking, and demand forecasting.  
 
+- **ISRO Bharatiya Antariksh Hackathon 2025 – Participant** 🚀  
+  Successfully participated in the prestigious national-level initiative by ISRO to foster innovation in space exploration and technology.  
+  Contributed by addressing real-world challenges in the space domain, demonstrating creativity, teamwork, and problem-solving skills.  
+  <img src="certificate.png" width="400px" alt="ISRO Hackathon Certificate"/>
 ---
 
 ## 🌟 Leadership & Volunteering  
