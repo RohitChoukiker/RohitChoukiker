@@ -25,7 +25,7 @@
 ## 🛠️ Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pythonts,react,next,nodejs,express,fastapi,mongodb,mysql,firebase,postgres,docker,postman,gcp" />
+  <img src="https://skillicons.dev/icons?i=python,react,next,nodejs,express,fastapi,mongodb,mysql,firebase,postgres,docker,postman,gcp" />
   <br/>
   <img src="https://img.shields.io/badge/LangChain-black?logo=chainlink&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Chroma-VectorDB-green" height="40"/>
