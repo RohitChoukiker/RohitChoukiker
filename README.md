@@ -47,10 +47,11 @@
 
 **Software Developer Intern @ StratSync.ai (Remote – Singapore)**  
 *Aug 2025 – Present*  
-- Designed and implemented **system architectures** for Generative AI tools with **RAG pipelines**.  
-- Built responsive **frontend UIs** and supported backend feature development.  
-- Conducted **market & competitive analysis** to refine product roadmaps.  
-- Collaborated in a **remote international team** for smooth end-to-end delivery.  
+- Designed and implemented system architectures for Generative AI tools with RAG pipelines.
+- Developed and maintained custom plugins to enhance the functionality of Generative AI applications and enable real-time data integration.
+- Built responsive frontend UIs and supported backend feature development.
+- Conducted market & competitive analysis to refine product roadmaps.
+- Collaborated in a remote international team for smooth end-to-end delivery.
 
 ---
 ## 🏆 Achievements  
