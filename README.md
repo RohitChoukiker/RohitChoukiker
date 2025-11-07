@@ -5,11 +5,11 @@
 </p> -->
 
 <h3 align="center">
-🚀 <b>Software Developer | AI/ML & Full-Stack</b>  
+<b>Software Developer | AI/ML & Full-Stack</b>  
 </h3>
 
 <p align="center">
-💡 Driven to build scalable solutions leveraging <b>Cloud & AI</b> <br/>
+  Driven to build scalable solutions leveraging <b>Cloud & AI</b> <br/>
 📫 Reach me: 
 <a href="https://www.rohitchoukiker.me/">Portfolio</a> • 
 <a href="https://www.linkedin.com/in/rohit-choukiker">LinkedIn</a> • 
