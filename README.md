@@ -79,4 +79,4 @@
 
 ---
 
-<p align="left">⭐️ From <a href="https://github.com/RohitChoukiker">Rohit Choukiker</a></p>
+<p align="left">⭐️ From <a href="https://www.rohitsudo.com/">Rohit Choukiker</a></p>
