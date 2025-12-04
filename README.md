@@ -72,7 +72,7 @@
    - Recognized for exemplary leadership and invaluable contribution as the Technical Coordinator of the **Apratim Srijan Kumbh Internal Hackathon 2025** at Indore Institute of Science and Technology. Played a key role in planning, coordination, and execution of the event ensuring smooth operations and success.
 
 - **Web Development Lead** — DevxDSA Club, IIST (Oct 2024 – Present)  
-  - Led **30+ students** in web development workshops & projects.  
+  - Led **100+ students** in web development workshops & projects.  
   - Conducted hands-on sessions on **React and Node.js**, mentoring juniors in real-world applications.  
   - Coordinated with faculty and peers to organize **hackathons and tech meetups**.  
   - Guided multiple student teams to successfully deliver **full-stack projects** deployed on cloud platforms.  
