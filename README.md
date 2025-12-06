@@ -41,7 +41,6 @@
 - **Cloud Platforms:** Firebase, Google Cloud Platform (GCP), Render, Vercel, GitHub Actions (basic CI/CD)
 - **Testing :** Jest (JavaScript/TypeScript Testing),Pytest (Python Testing)
 
---- bhai isme skill ke section ko update kr de
 ---
 
 ## 💼 Experience  
