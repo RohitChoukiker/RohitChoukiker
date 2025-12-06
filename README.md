@@ -26,10 +26,12 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,react,next,nodejs,express,fastapi,mongodb,mysql,firebase,postgres,docker,postman,gcp" />
   <br/>
-  <img src="https://img.shields.io/badge/LangChain-black?logo=chainlink&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/VectorDB-green" height="40"/>
-  <img src="https://img.shields.io/badge/Neon-Postgres-blue" height="40"/>
-  <img src="https://img.shields.io/badge/Render-%2300C7B7.svg?logo=render&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/LangChain-black?logo=chainlink&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/LangGraph-%23007ACC.svg" height="40"/>
+<img src="https://img.shields.io/badge/VectorDB-green" height="40"/>
+<img src="https://img.shields.io/badge/Neon-Postgres-blue" height="40"/>
+<img src="https://img.shields.io/badge/Render-%2300C7B7.svg?logo=render&logoColor=white" height="40"/>
+
 </p>
 
 
