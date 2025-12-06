@@ -21,25 +21,49 @@
 
 ---
 
-## 🛠️ Skills  
+🛠️ Skills
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,next,nodejs,express,fastapi,mongodb,mysql,postgres,firebase,docker,git,postman,gcp" /> <br/> <img src="https://img.shields.io/badge/LangChain-%23000000.svg?logo=chainlink&logoColor=white" height="32"/> <img src="https://img.shields.io/badge/Transformers-%23FFCC00.svg?logo=huggingface&logoColor=black" height="32"/> <img src="https://img.shields.io/badge/Chroma-VectorDB-green" height="32"/> <img src="https://img.shields.io/badge/Neon-Postgres-blue" height="32"/> <img src="https://img.shields.io/badge/Render-%2300C7B7.svg?logo=render&logoColor=white" height="32"/> <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" height="32"/> </p>
+Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,next,nodejs,express,fastapi,mongodb,mysql,firebase,postgres,docker,postman,gcp" />
-  <br/>
-  <img src="https://img.shields.io/badge/LangChain-black?logo=chainlink&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Chroma-VectorDB-green" height="40"/>
-  <img src="https://img.shields.io/badge/Neon-Postgres-blue" height="40"/>
-  <img src="https://img.shields.io/badge/Render-%2300C7B7.svg?logo=render&logoColor=white" height="40"/>
-</p>
+C++, Python, JavaScript, TypeScript
 
+Frameworks & Libraries
 
-- **Languages:** C++, Python, JavaScript, TypeScript  
-- **Frameworks & Libraries:** FastAPI, Node.js, Express.js, React.js, Next.js (TypeScript), Socket.io  
-- **AI/ML:** LangChain, Hugging Face Transformers, NumPy, Pandas  
-- **Databases:** MongoDB, MySQL, Firebase, Chroma (Vector DB), Neon (PostgreSQL)  
-- **DevOps & Deployment:** Docker, Git, Vercel, Render, AWS (Basic), Postman  
-- **Cloud Platforms:** Firebase, Google Cloud Platform (GCP), Render, Vercel  
+FastAPI, Express.js, Node.js
 
+React.js, Next.js (TypeScript), Socket.io
+
+AI / Machine Learning
+
+LangChain, Hugging Face Transformers
+
+NumPy, Pandas
+
+RAG Pipelines, LLMOps, Vector Databases (Chroma, FAISS)
+
+Databases
+
+MongoDB, MySQL, Firebase
+
+PostgreSQL (Neon), ChromaDB
+
+Testing
+
+Jest (JavaScript/TypeScript Testing)
+
+Pytest (Python Testing)
+
+DevOps & Deployment
+
+Docker, Git, GitHub Actions (basic CI/CD)
+
+Vercel, Render, AWS (Basic), GCP
+
+Postman (API Testing)
+
+Cloud Platforms
+
+Firebase, GCP, Render, Vercel
 ---
 
 ## 💼 Experience  
