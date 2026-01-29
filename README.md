@@ -57,9 +57,9 @@
 
 ---
 ## 🏆 Achievements  
-- **Indore Tech Hackathon 2025 – First Prize** 🥇
-  Developed AI, Drone & GIS-based smart city solutions aligned with Indore Smart City Development initiatives, enabling urban monitoring, infrastructure             assessment, and data-driven decision-making. Recognized by district administration and Smart City leadership for delivering practical, scalable                    solutions with strong potential for real-world urban impact and future deployment. ye dithub readme me add krna hai
-  
+- **Indore Tech Hackathon 2025 – First Prize 🥇**  
+  Developed **AI, Drone & GIS-based smart city solutions** aligned with **Indore Smart City Development** initiatives, enabling **urban monitoring, infrastructure assessment, and data-driven decision-making**.  
+  Recognized by **district administration and Smart City leadership** for delivering **practical, scalable solutions** with strong potential for **real-world urban impact and future deployment**.
 
 
 - **Smart India Hackathon 2024 – Finalist** 🏅  
