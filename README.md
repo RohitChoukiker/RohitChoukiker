@@ -58,8 +58,12 @@
 ---
 ## 🏆 Achievements  
 
+- **Indore Tech Hackathon – First Prize** 🥇 
+Built AI, Drone & GIS-based smart city solutions aligned with Indore Smart City Development initiatives.
+Recognized by district administration and Smart City leadership for real-world urban impact.
+
 - **Smart India Hackathon 2024 – Finalist** 🏅  
-  Developed an AI-driven logistics optimization system leveraging machine learning algorithms and multi-modal transport (road, rail, air) to minimize delivery   time and cost for India Post, integrating intelligent route planning, real-time tracking, and demand forecasting.
+Developed an AI-driven logistics optimization system leveraging machine learning algorithms and multi-modal transport (road, rail, air) to minimize delivery   time and cost for India Post, integrating intelligent route planning, real-time tracking, and demand forecasting.
  🔗 [View Certificate](https://alumniapi.mic.gov.in/api/certificatess/14878/62725)
 
 
