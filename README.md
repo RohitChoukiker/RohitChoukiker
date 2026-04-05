@@ -31,18 +31,6 @@
 <img src="https://img.shields.io/badge/VectorDB-green" height="40"/>
 <img src="https://img.shields.io/badge/Neon-Postgres-blue" height="40"/>
 
-
-</p>
-
-
-- **Languages:** C++, Python, JavaScript, TypeScript  
-- **Frameworks & Libraries:** FastAPI, Node.js, Express.js, React.js, Next.js (TypeScript), Socket.io  
-- **AI/ML:** LangChain, LangGraph, LLm, Hugging Face Transformers, NumPy, Pandas  
-- **Databases:** MongoDB, MySQL, Firebase, Vector DB, Neon (PostgreSQL)  
-- **DevOps & Deployment:** Docker, Git, Vercel, Render, AWS (Basic), Postman  
-- **Cloud Platforms:** Firebase, Google Cloud Platform (GCP), Render, Vercel, GitHub Actions (basic CI/CD)
-- **Testing :** Jest (JavaScript/TypeScript Testing),Pytest (Python Testing)
-
 ---
 
 ## 💼 Experience  
