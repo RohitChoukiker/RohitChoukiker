@@ -21,11 +21,13 @@
 
 ---
 
-## 🏛️ Smart City Work  
-Working on AI-driven urban governance systems in collaboration with Smart City Indore, a Government of India initiative  
+## 🏛️ Smart City Work (IMC – Indore Municipal Corporation)  
+
+Working on AI-driven urban governance systems in collaboration with Smart City Indore under the Government of India Smart Cities Mission  
+
 - Building AI-based illegal construction detection using GIS & computer vision  
 - Developing real-time monitoring and automation workflows  
-- Designing scalable systems for urban infrastructure and governance
+- Designing scalable systems for urban infrastructure and governance  
 
 
 ## 🛠️ Skills  
