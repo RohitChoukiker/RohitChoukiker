@@ -40,6 +40,8 @@ What I focus on:
 
 🚀 Always building. Always learning. Focused on real-world impact.
 
+---
+
 ## 🏛️ Smart City Work (IMC – Indore Municipal Corporation)  
 
 Building AI-driven urban governance systems in collaboration with Smart City Indore under the Government of India Smart Cities Mission
@@ -48,6 +50,7 @@ Building AI-driven urban governance systems in collaboration with Smart City Ind
 - Developing real-time monitoring and automation workflows  
 - Designing scalable systems for urban infrastructure and governance  
 
+---
 
 ## 🛠️ Skills  
 
