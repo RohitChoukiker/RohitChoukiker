@@ -21,6 +21,25 @@
 
 ---
 
+## 🧠 About Me  
+
+I’m a software engineer building AI-driven, scalable, and production-ready systems.  
+
+I work across full-stack and cloud-native architectures, with a strong focus on Generative AI — including RAG pipelines, LLM workflows, and vector search.  
+
+Currently:  
+- SDE Intern @ StratSync (Singapore) — working on GenAI systems & full-stack development  
+- Core Engineer — contributing to AI-driven smart city solutions with Smart City Indore  
+
+What I focus on:  
+- Building end-to-end systems using MERN, FastAPI, Docker, and cloud  
+- Designing scalable architectures and real-world AI applications  
+- Shipping fast, reliable, and impactful solutions  
+
+🏆 Hackathons: ITH’25 Winner (₹4L), SIH’24 Finalist, BAH’25  
+
+🚀 Always building. Always learning. Open to collaboration.
+
 ## 🏛️ Smart City Work (IMC – Indore Municipal Corporation)  
 
 Working on AI-driven urban governance systems in collaboration with Smart City Indore under the Government of India Smart Cities Mission  
