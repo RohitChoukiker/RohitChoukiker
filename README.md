@@ -21,7 +21,7 @@
 
 ---
 
-## 🧠 About Me  
+## About Me  
 
 I’m a software engineer building AI-driven, scalable, and production-ready systems.  
 
@@ -38,11 +38,11 @@ What I focus on:
 
 🏆 Hackathons: ITH’25 Winner (₹4L), SIH’24 Finalist, BAH’25  
 
-🚀 Always building. Always learning. Open to collaboration.
+🚀 Always building. Always learning. Focused on real-world impact.
 
 ## 🏛️ Smart City Work (IMC – Indore Municipal Corporation)  
 
-Working on AI-driven urban governance systems in collaboration with Smart City Indore under the Government of India Smart Cities Mission  
+Building AI-driven urban governance systems in collaboration with Smart City Indore under the Government of India Smart Cities Mission
 
 - Building AI-based illegal construction detection using GIS & computer vision  
 - Developing real-time monitoring and automation workflows  
