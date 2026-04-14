@@ -17,9 +17,16 @@
 
 ---
 
-🚀 Open to collaboration — feel free to reach out via [Email](mailto:airohit@protonmail.com) or [LinkedIn](https://www.linkedin.com/in/rohit-choukiker)
+🤝 Open to collaborations and exciting opportunities — connect via [Email](mailto:airohit@protonmail.com) or [LinkedIn](https://www.linkedin.com/in/rohit-choukiker)
 
 ---
+
+## 🏛️ Smart City Work  
+Working on AI-driven urban governance systems in collaboration with Smart City Indore, a Government of India initiative  
+- Building AI-based illegal construction detection using GIS & computer vision  
+- Developing real-time monitoring and automation workflows  
+- Designing scalable systems for urban infrastructure and governance
+
 
 ## 🛠️ Skills  
 
