@@ -18,6 +18,7 @@
 ---
 
 🚀 Open to collaboration — feel free to reach out via [Email](mailto:airohit@protonmail.com) or [LinkedIn](https://www.linkedin.com/in/rohit-choukiker)
+
 ---
 
 ## 🛠️ Skills  
