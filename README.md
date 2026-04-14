@@ -17,8 +17,7 @@
 
 ---
 
- 🔒 *Prefer to stay semi-anonymous online; reach me directly via [Email](mailto:airohit@protonmail.com) or [LinkedIn](https://www.linkedin.com/in/rohit-choukiker) for collaboration opportunities.*
-
+🚀 Open to collaboration — feel free to reach out via [Email](mailto:airohit@protonmail.com) or [LinkedIn](https://www.linkedin.com/in/rohit-choukiker)
 ---
 
 ## 🛠️ Skills  
